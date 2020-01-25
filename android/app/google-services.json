@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187596393180",
+    "firebase_url": "https://light-for-life-225a8.firebaseio.com",
+    "project_id": "light-for-life-225a8",
+    "storage_bucket": "light-for-life-225a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187596393180:android:303d36a15c4142a02d4219",
+        "android_client_info": {
+          "package_name": "nuradev.nuralightforlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187596393180-b0mbdgonemar5jneo0ruafhmp58chq6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJiBA8ReusI6gkSyX2zxXpxbHhPU6mmkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187596393180-b0mbdgonemar5jneo0ruafhmp58chq6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
